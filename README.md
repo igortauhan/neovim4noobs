@@ -14,7 +14,7 @@
 
 1. Introdução
     1. [Sobre o Neovim](docs/01-introducao/sobre-o-neovim.md)
-    2. [Instalação](docs/01-introducao/instalacao.md.md)
+    2. [Instalação](docs/01-introducao/instalacao.md)
 
 ## Sobre o projeto
 
