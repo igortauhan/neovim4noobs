@@ -6,6 +6,17 @@
   <h2 align="center">neovim4noobs</h2>
 </p>
 
+<p align="center">
+  <a href="/docs/01-introducao/sobre-o-neovim.md"><< <strong>Iniciar leitura do repositório</strong> >></a>
+</p>
+
+#
+
+## Seções
+
+1. Introdução
+    1. [Sobre o Neovim](docs/01-introducao/sobre-o-neovim.md)
+
 ## Sobre o projeto
 
 A idéia desse projeto é ajudar pessoas que queiram começar a utilizar o Neovim porém não sabem por onde começar, sejam usuários de VIM ou de outros editores de texto.
