@@ -9,3 +9,7 @@ O [Neovim](https://neovim.io/) é o sucessor do editor de texto [VIM](https://ww
 Dentre todas as vantagens que o Neovim possui em relação ao VIM, podemos citar: cliente de LSP nativo (nos módulos seguintes, entraremos com detalhes no assunto de LSP), velocidade de execução de todo o editor (tanto a velocidade para abrir o editor, manusear o texto e em todas as funcionalidades que provém de Plugins de terceiros), e a possibilidade de configurar tanto em VIM Script quanto em Lua.
 
 Apesar de aceitar configurações e Plugins em Lua, o Neovim ainda mantém a tradição do VIM, desde comandos de navegações, até comandos de configurações, suportando até Plugins feitos para o VIM acima da versão 8.x.
+
+<p align="right">
+    <a href="/instalacao.md">Próximo artigo - Instalação -></a>
+</p>

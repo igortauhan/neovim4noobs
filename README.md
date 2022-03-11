@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./images/nvim-icon.png" height="200" width="200">
+    <img src="./images/nvim-icon.png" height="200" width="200">
 </p>
 
 <p align="center">
-  <h2 align="center">neovim4noobs</h2>
+    <h2 align="center">neovim4noobs</h2>
 </p>
 
 <p align="center">
-  <a href="/docs/01-introducao/sobre-o-neovim.md"><< <strong>Iniciar leitura do repositório</strong> >></a>
+    <a href="/docs/01-introducao/sobre-o-neovim.md"><< <strong>Iniciar leitura do repositório</strong> >></a>
 </p>
 
 ## Seções
