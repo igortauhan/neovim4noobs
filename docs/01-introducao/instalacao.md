@@ -27,5 +27,5 @@ A instalação do Neovim no MacOS é feita através do [Home Brew](https://brew.
 Com o Home Brew instalado no seu SO, rode o seguinte comando: `brew install neovim`
 
 <p align="left">
-    <a href="/sobre-o-neovim.md"><- Voltar para - Sobre o Neovim</a>
+    <a href="./sobre-o-neovim.md"><- Voltar para - Sobre o Neovim</a>
 </p>
