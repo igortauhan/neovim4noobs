@@ -6,6 +6,9 @@
   <h2 align="center">neovim4noobs</h2>
 </p>
 
+## Sobre o projeto
+
+A idéia desse projeto é ajudar pessoas que queiram começar a utilizar o Neovim porém não sabem por onde começar, sejam usuários de VIM ou de outros editores de texto.
 
 ## Como contribuir?
 
