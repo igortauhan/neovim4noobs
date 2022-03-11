@@ -1,6 +1,11 @@
-<center><img src="./images/nvim-icon.png" height="200" width="200"></center>
+<p align="center">
+  <img src="./images/nvim-icon.png" height="200" width="200">
+</p>
 
-<center> <h2>neovim4noobs</h2> </center>
+<p align="center">
+  <h2 align="center">neovim4noobs</h2>
+</p>
+
 
 ## Como contribuir?
 
