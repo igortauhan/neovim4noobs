@@ -10,8 +10,6 @@
   <a href="/docs/01-introducao/sobre-o-neovim.md"><< <strong>Iniciar leitura do repositório</strong> >></a>
 </p>
 
-#
-
 ## Seções
 
 1. Introdução

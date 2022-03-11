@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../../images/nvim-icon.png" height="200" width="200">
+</p>
+
 ## Sobre o Neovim
 
 O [Neovim](https://neovim.io/) é o sucessor do editor de texto [VIM](https://www.vim.org/). Ele foi criado com a proposta de melhorar e extender o VIM em muitos aspectos. Feito na linguagem de programação [Lua](https://www.lua.org/), o Neovim trouxe consigo a facilidade de contribuições de terceiros, tanto no repositório oficial quanto em Plugins. 
