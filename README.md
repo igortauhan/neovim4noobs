@@ -18,6 +18,7 @@
     3. [Instalação](docs/01-introducao/instalacao.md)
     4. [Ambiente de configuração](docs/01-introducao/ambiente-de-configuracao.md)
     5. [Aprofundando nas configurações](docs/01-introducao/aprofundando-configuracoes.md)
+    6. [Plugins](docs/01-introducao/plugins.md)
 
 ## Sobre o projeto
 
