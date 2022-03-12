@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="docs/01-introducao/nivelamento.md"><< <strong>Iniciar leitura dos documentos</strong> >></a>
+    <a href="docs/01-introducao/nivelamento.md"><< <strong>Iniciar leitura</strong> >></a>
 </p>
 
 ## Seções

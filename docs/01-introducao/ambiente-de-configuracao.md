@@ -71,7 +71,7 @@ Saida do comando `:h 'number'`:
 
 Com essa definição, nós observamos algumas coisas importantes. Primeiro a configuração **number** aceita valores [booleanos](https://github.com/DantasB/CSharp4Noobs/blob/master/docs/3-B%C3%A1sico/02-Tipos-de-vari%C3%A1veis.md), e também é apresentado que tipo de configuração o **number** é, onde, como podemos ver pela imagem, é do tipo **local to window**. Nós iremos utilizar bastante o comando `:h 'configuração'` nos módulos intermediário e avançado. Lá abordaremos o que é esse **local to window** que temos na definição.
 
-No próximo artigo iremos aprofundar nas configurações.
+No próximo artigo nós iremos aprofundar nas configurações.
 
 <div style="display: flex; justify-content: space-between;">
     <p align="left">

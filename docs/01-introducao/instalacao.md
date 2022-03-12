@@ -32,6 +32,14 @@ Com o Home Brew instalado no seu SO, rode o seguinte comando: `brew install neov
 
 `Para abrir o Neovim após a instalação, reinicie seu terminal e digite nvim.`
 
+## Pequeno desafio
+
+Como estamos no começo de todo o repositório que vem pela frente, proponho que você tire um print do seu Neovim recém instalado e aberto para que você possa perceber as diferenças no final do repositório.
+
+Aqui está o nosso print:
+
+![Print neovim zerado](../../images/modulo-01/nvimzerado.png)
+
 <div style="display: flex; justify-content: space-between;">
     <p align="left">
         <a href="./sobre-o-neovim.md"><- Voltar para - Sobre o Neovim</a>
