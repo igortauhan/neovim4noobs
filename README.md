@@ -15,6 +15,7 @@
 1. Introdução
     1. [Sobre o Neovim](docs/01-introducao/sobre-o-neovim.md)
     2. [Instalação](docs/01-introducao/instalacao.md)
+    3. [Ambiente de configuração](docs/01-introducao/ambiente-de-configuracao.md)
 
 ## Sobre o projeto
 
