@@ -12,13 +12,13 @@
 
 ## Seções
 
-1. Introdução
-    1. [Sobre o Neovim](docs/01-introducao/sobre-o-neovim.md)
-    2. [Nivelamento sobre o VIM/Neovim](docs/01-introducao/nivelamento.md)
-    3. [Instalação](docs/01-introducao/instalacao.md)
-    4. [Ambiente de configuração](docs/01-introducao/ambiente-de-configuracao.md)
-    5. [Aprofundando nas configurações](docs/01-introducao/aprofundando-configuracoes.md)
-    6. [Plugins](docs/01-introducao/plugins.md)
+- 1 - Introdução
+  - [1.1 - Sobre o Neovim](docs/01-introducao/sobre-o-neovim.md)
+  - [1.2 - Nivelamento sobre o VIM/Neovim](docs/01-introducao/nivelamento.md)
+  - [1.3 - Instalação](docs/01-introducao/instalacao.md)
+  - [1.4 - Ambiente de configuração](docs/01-introducao/ambiente-de-configuracao.md)
+  - [1.5 - Aprofundando nas configurações](docs/01-introducao/aprofundando-configuracoes.md)
+  - [1.6 - Plugins](docs/01-introducao/plugins.md)
 
 ## Sobre o projeto
 

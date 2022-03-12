@@ -44,7 +44,7 @@ Essas são um conjunto de configurações que considero essênciais. Como mencio
 
 <div style="display: flex; justify-content: space-between;">
     <p align="left">
-        <a href="./ambiente-de-configuracoes.md"><- Voltar para - Ambiente de configurações</a>
+        <a href="./ambiente-de-configuracao.md"><- Voltar para - Ambiente de configurações</a>
     </p>
     <p align="right">
         <a href="./plugins.md">Próximo artigo - Plugins -></a>
