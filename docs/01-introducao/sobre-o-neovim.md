@@ -11,10 +11,10 @@ Dentre todas as vantagens que o Neovim possui em relação ao VIM, podemos citar
 Apesar de aceitar configurações e Plugins em Lua, o Neovim ainda mantém a tradição do VIM, desde comandos de navegações, até comandos de configurações, suportando até Plugins feitos para o VIM acima da versão 8.x.
 
 <div style="display: flex; justify-content: space-between;">
-    <p>
+    <p align="left">
         <a href="./nivelamento.md"><- Voltar para - Nivelamento</a>
     </p>
-    <p>
+    <p align="right">
         <a href="./instalacao.md">Próximo artigo - Instalação -></a>
     </p>
 </div>

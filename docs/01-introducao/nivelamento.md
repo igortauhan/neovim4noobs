@@ -62,9 +62,9 @@ Você pode substituir uma palavra inteira com `cw`. Usando esse comando, todos o
 
 Para buscar uma ocorrência de palavra ou conjunto de caractéres, aperte `/` e digite a sua pesquisa. Por exemplo: `/function` irá pesquisar por todas as ocorrências da palavra **function** no arquivo.
 
-Você pode substituir **TODAS** as ocorrências de um conjunto de caractéres (ou palavras) de um arquivo facilmente. Para isso, faça:
+Você pode substituir **TODAS** as ocorrências de um conjunto de caractéres (ou palavras) de um arquivo facilmente. Para isso, faça: `:%s/palavra_antiga/palavra_nova` e dê Enter.
 
-`:%s/palavra_antiga/palavra_nova` e dê Enter.
+Você pode deletar o trecho de código inteiro dentro de: aspas simples e duplas, parênteses, colchetes e chaves. Para isso, faça: `di padrao`, onde padrão é o tipo de elemento que o trecho está inserido. Por exemplo, para apagar o trecho dentro de aspas, faça: `di"` e todo o trecho dentro delas será apagado. Para apagar dentro de chaves (em um método por exemplo), faça `di{`.
 
 <p align="right">
     <a href="../01-introducao/sobre-o-neovim.md">Próximo artigo - Sobre o neovim -></a>
