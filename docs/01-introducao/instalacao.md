@@ -37,6 +37,6 @@ Com o Home Brew instalado no seu SO, rode o seguinte comando: `brew install neov
         <a href="./sobre-o-neovim.md"><- Voltar para - Sobre o Neovim</a>
     </p>
     <p align="right">
-        <a href="./sobre-o-neovim.md">Próximo artigo - Ambiente de configuração -></a>
+        <a href="./ambiente-de-configuracao.md">Próximo artigo - Ambiente de configuração -></a>
     </p>
 </div>
