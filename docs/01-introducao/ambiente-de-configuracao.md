@@ -77,4 +77,7 @@ No próximo artigo nós iremos aprofundar nas configurações.
     <p align="left">
         <a href="./instalacao.md"><- Voltar para - Instalação</a>
     </p>
+    <p align="right">
+        <a href="./aprofundando-configuracoes.md">Próximo artigo - Aprofundando nas configurações -></a>
+    </p>
 </div>

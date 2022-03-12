@@ -20,6 +20,10 @@ Já o modo **VISUAL** é onde poderemos selecionar cada caractér do arquivo.
 
 Sempre que você abrir o VIM, ele entrará no modo **NORMAL**. Para entrar no modo de **INSERÇÃO**, aperte `i` (i **MINÚSCULO** em, lembre-se que o VIM diferencia o estados das letras). Para retornar ao modo **NORMAL**, aperte `ESC`. O modo **VISUAL** pode ser acessado apertando `v` (novamente, v **MINÚSCULO**), onde podemos selecionar o texto para deletar ou copiar (para selecionar os caractéres ou palavras que você deseja, basta usar as teclas de navegação que veremos no tópico a seguir).
 
+Sempre que você precisar entrar com um comando no VIM, precisará começar com `:` no modo **NORMAL**.
+
+Você pode entrar no modo de **INSERÇÃO** tanto com `i` quanto com `a`. Com `i` você irá começar a digitar atrás do caractére selecionado. Com `a` você irá começar a digitar na frente.
+
 ### Movimentação
 
 A movimentação entre as linhas e caractéres do VIM é feita através das teclas: `h j k l`, onde **h** movimenta para **ESQUERDA**, **j** movimenta para **BAIXO**, **k** movimenta para **CIMA** e **l** movimenta para **direita**.
@@ -34,6 +38,8 @@ O VIM permite navegar entre o início das palavras com `w` e `b`. Como vimos, po
 
 Você pode movimentar através de linhas vazias utilizando `{` e `}` (ou SHIFT + [ e ]). É bastante útil quando você está navegando entre métodos de um arquivo que tem poucas linhas vazias.
 
+Você pode movimentar para o início da linha e já entrar no modo de **INSERÇÃO** com `SHIFT + i`. Com `SHIFT + a` você irá movimentar para o final da linha e também entrará em modo de **INSERÇÃO**.
+
 ### Copiar e colar
 
 Nós podemos copiar as palavras e linhas no VIM de maneira fácil.
@@ -47,6 +53,18 @@ Você pode copiar uma linha inteira rapidamente usando `yy`.
 ### Scroll
 
 Uma das melhores coisas do VIM é não precisar usar o mouse para nada (só se você quiser), então em um editor de texto comum, nós temos que tirar a mão do teclado e levar até o mouse para descer ou subir no arquivo. Com o VIM podemos usar `CTRL + y` para scrollar para **CIMA** e `CTRL + e` para scrollar para **BAIXO**.
+
+### Extras
+
+Você pode criar uma nova linha vazia **ABAIXO** do seu cursor com `o`. Utilizando essa estratégia, o VIM já entrará em modo de **INSERÇÃO**. Da mesma maneira, você pode criar uma linha vazia **ACIMA** do seu cursor com `O`.
+
+Você pode substituir uma palavra inteira com `cw`. Usando esse comando, todos os caractéres até o final da palavra serão apagados. Da mesma maneira, podemos usar `cb` para substituir para trás da palavra.
+
+Para buscar uma ocorrência de palavra ou conjunto de caractéres, aperte `/` e digite a sua pesquisa. Por exemplo: `/function` irá pesquisar por todas as ocorrências da palavra **function** no arquivo.
+
+Você pode substituir **TODAS** as ocorrências de um conjunto de caractéres (ou palavras) de um arquivo facilmente. Para isso, faça:
+
+`:%s/palavra_antiga/palavra_nova` e dê Enter.
 
 <p align="right">
     <a href="../01-introducao/sobre-o-neovim.md">Próximo artigo - Instalação -></a>
