@@ -41,10 +41,10 @@ Aqui está o nosso print:
 ![Print neovim zerado](../../images/modulo-01/nvimzerado.png)
 
 <div style="display: flex; justify-content: space-between;">
-    <p align="left">
+    <p>
         <a href="./sobre-o-neovim.md"><- Voltar para - Sobre o Neovim</a>
     </p>
-    <p align="right">
+    <p>
         <a href="./ambiente-de-configuracao.md">Próximo artigo - Ambiente de configuração -></a>
     </p>
 </div>

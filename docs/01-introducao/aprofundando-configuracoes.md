@@ -41,3 +41,7 @@ set expandtab
 E por último, `syntax on` liga o modo de coloração da syntaxe do Neovim.
 
 Essas são um conjunto de configurações que considero essênciais. Como mencionado, você pode ajustar do seu jeito (recomendo fortemente que pesquise sobre as configurações, pois são muitas que podem trazer a tona alguma coisa do seu gosto).
+
+<p>
+    <a href="../01-introducao/sobre-o-neovim.md"><- Voltar para - Ambiente de configurações</a>
+</p>

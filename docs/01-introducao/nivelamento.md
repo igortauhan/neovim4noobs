@@ -66,6 +66,6 @@ Você pode substituir **TODAS** as ocorrências de um conjunto de caractéres (o
 
 `:%s/palavra_antiga/palavra_nova` e dê Enter.
 
-<p align="right">
+<p>
     <a href="../01-introducao/sobre-o-neovim.md">Próximo artigo - Instalação -></a>
 </p>
