@@ -20,6 +20,7 @@
   - [1.5 - Aprofundando nas configurações](docs/01-introducao/aprofundando-configuracoes.md)
   - [1.6 - Plugins](docs/01-introducao/plugins.md)
   - [1.7 - Aprofundando nos Plugins](docs/01-introducao/aprofundando-plugins.md)
+  - [1.8 - Organizando Diretório](docs/01-introducao/organizando-diretorio.md)
 
 ## Sobre o projeto
 

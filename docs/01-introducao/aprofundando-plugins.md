@@ -57,4 +57,7 @@ No próximo capítulo iremos preparar o nosso diretório para instalarmos mais P
     <p align="left">
         <a href="./plugins.md"><- Voltar para - Plugins</a>
     </p>
+    <p align="right">
+        <a href="./organizando-diretorio.md">Próximo artigo - Organizando o diretório -></a>
+    </p>
 </div>
