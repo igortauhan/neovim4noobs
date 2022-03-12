@@ -19,6 +19,7 @@
   - [1.4 - Ambiente de configuração](docs/01-introducao/ambiente-de-configuracao.md)
   - [1.5 - Aprofundando nas configurações](docs/01-introducao/aprofundando-configuracoes.md)
   - [1.6 - Plugins](docs/01-introducao/plugins.md)
+  - [1.7 - Aprofundando nos Plugins](docs/01-introducao/aprofundando-plugins.md)
 
 ## Sobre o projeto
 

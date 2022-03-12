@@ -36,6 +36,9 @@ Nesse artigo não entraremos em quais Plugins instalar, apenas na definição e 
 
 <div style="display: flex; justify-content: space-between;">
     <p align="left">
-        <a href="./aprofundando-configuracoes.md"><- Voltar para - Aprufndando nas configurações</a>
+        <a href="./aprofundando-configuracoes.md"><- Voltar para - Aprofundando nas configurações</a>
+    </p>
+    <p align="right">
+        <a href="./aprofundando-plugins.md">Próximo artigo - Aprofundando nos Plugins -></a>
     </p>
 </div>
