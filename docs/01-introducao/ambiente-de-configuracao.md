@@ -74,10 +74,10 @@ Com essa definição, nós observamos algumas coisas importantes. Primeiro a con
 No próximo artigo nós iremos aprofundar nas configurações.
 
 <div style="display: flex; justify-content: space-between;">
-    <p>
+    <p align="left">
         <a href="./instalacao.md"><- Voltar para - Instalação</a>
     </p>
-    <p>
+    <p align="right">
         <a href="./aprofundando-configuracoes.md">Próximo artigo - Aprofundando nas configurações -></a>
     </p>
 </div>

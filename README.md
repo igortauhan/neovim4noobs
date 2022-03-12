@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-    <a href="docs/01-introducao/nivelamento.md"><< <strong>Iniciar leitura</strong> >></a>
+    <a href="docs/01-introducao/sobre-o-neovim.md"><< <strong>Iniciar leitura</strong> >></a>
 </p>
 
 ## Seções
 
 1. Introdução
-    1. [Nivelamento sobre o VIM/Neovim](docs/01-introducao/nivelamento.md)
-    2. [Sobre o Neovim](docs/01-introducao/sobre-o-neovim.md)
+    1. [Sobre o Neovim](docs/01-introducao/sobre-o-neovim.md)
+    2. [Nivelamento sobre o VIM/Neovim](docs/01-introducao/nivelamento.md)
     3. [Instalação](docs/01-introducao/instalacao.md)
     4. [Ambiente de configuração](docs/01-introducao/ambiente-de-configuracao.md)
     5. [Aprofundando nas configurações](docs/01-introducao/aprofundando-configuracoes.md)

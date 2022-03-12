@@ -66,6 +66,11 @@ Você pode substituir **TODAS** as ocorrências de um conjunto de caractéres (o
 
 Você pode deletar o trecho de código inteiro dentro de: aspas simples e duplas, parênteses, colchetes e chaves. Para isso, faça: `di padrao`, onde padrão é o tipo de elemento que o trecho está inserido. Por exemplo, para apagar o trecho dentro de aspas, faça: `di"` e todo o trecho dentro delas será apagado. Para apagar dentro de chaves (em um método por exemplo), faça `di{`.
 
-<p align="right">
-    <a href="../01-introducao/sobre-o-neovim.md">Próximo artigo - Sobre o neovim -></a>
-</p>
+<div style="display: flex; justify-content: space-between;">
+    <p align="left">
+        <a href="./sobre-o-neovim.md"><- Voltar para - Sobre o Neovim</a>
+    </p>
+    <p align="right">
+        <a href="./instalacao.md">Próximo artigo - Instalação -></a>
+    </p>
+</div>
